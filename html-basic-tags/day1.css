@@ -1,0 +1,25 @@
+body{
+    background-color:aquamarine;
+    background-image: url('car.jpg');
+    background-repeat: no-repeat;
+}
+h1{
+    border: 2px solid powderblue;
+    padding: 30px;
+    margin: 50px;
+}
+p1{
+    border: 2px solid blue;
+    padding: 20px;
+}
+table,th,td
+{
+  width:100%;
+ border:1px solid blue;
+ /* border-collapse: collapse;*/
+ /* background-color: antiquewhite; */
+ border-radius: 10px;
+ 
+}
+
+
